@@ -6,6 +6,8 @@
 
 💻 I love programming, and especially working on data science projects using R. Basically what populates my GitHub repos.
 
+📑 You can check my Lattes Curriculum [here]https://lattes.cnpq.br/5680118320056968).
+
 👀 Feel free to contact me to have a chat.
 
 😎 Have a nice day!
