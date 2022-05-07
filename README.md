@@ -12,3 +12,20 @@
 
 😎 Have a nice day!
 
+#### Tools and technologies
+
+- [Arch Linux](https://archlinux.org/)
+- [Qtile](www.qtile.org/)
+- [Alacritty](https://alacritty.org/)
+- [Neovim](https://neovim.io/)
+- [Zathura](https://pwmt.org/projects/zathura/)
+- [Zotero](https://www.zotero.org/)
+- [LaTeX](https://www.latex-project.org/)
+- [R language](https://cran.r-project.org/)
+- [Python](https://www.python.org/)
+- [Bash](https://www.gnu.org/software/bash/)
+- [Julia](https://julialang.org/)
+- [Redshift](http://jonls.dk/redshift/)
+- [PSPP](https://www.gnu.org/software/pspp/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
