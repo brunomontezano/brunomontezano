@@ -6,7 +6,7 @@
 
 💻 I love programming, and especially working on data science projects using R. Basically what populates my GitHub repos. Besides that, I'm really into free and open source projects in general and advocate for that philosophy in the *tech* world.
 
-📑 You can check my Lattes Curriculum [here](https://lattes.cnpq.br/5680118320056968), my ORCID page [here](https://orcid.org/0000-0002-4627-1776) and my ResearchGate profile [here](https://www.researchgate.net/profile/Bruno-Braga-Montezano).
+📑 You can check my Lattes Curriculum [here](https://lattes.cnpq.br/5680118320056968), my ORCID page [here](https://orcid.org/0000-0002-4627-1776), my LinkedIn profile [here](https://www.linkedin.com/in/bmontezano/) and my ResearchGate profile [here](https://www.researchgate.net/profile/Bruno-Braga-Montezano).
 
 👀 Feel free to contact me to have a chat.
 
