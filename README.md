@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunomontezano)](https://github.com/brunomontezano)
 
-📖 I graduated in a Technical Course in Computer Science at [IFRS](https://ifrs.edu.br/) and a Bachelor in Psychology in [UCPel](https://ucpel.edu.br/). Currently, I'm a Master's Student in Psychiatry and Behavioral Sciences at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (2022), Brazil.
+📖 I graduated in a Technical Course in Computer Science at [IFRS](https://ifrs.edu.br/) and a Bachelor in Psychology in [UCPel](https://ucpel.edu.br/). Currently, I'm a Master's Student in Psychiatry and Behavioral Sciences at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial) (2022), Brazil. I work mainly with predictive modeling techniques with mental health outcomes, especially mood disorders (major depressive disorder and bipolar disorder).
 
 💻 I love programming, and especially working on data science projects using R. Basically what populates my GitHub repos. Besides that, I'm really into free and open source projects in general and advocate for that philosophy in the *tech* world.
 
