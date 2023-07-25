@@ -10,6 +10,8 @@
 
 👀 Feel free to contact me to have a chat.
 
+✉️ Email for contact: bmontezano@hcpa.edu.br
+
 😎 Have a nice day!
 
 #### Tools and technologies
@@ -29,3 +31,4 @@
 - [PSPP](https://www.gnu.org/software/pspp/)
 - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/)
+- [VSCode](https://code.visualstudio.com/)
